@@ -15,5 +15,5 @@ def list_dwarves(array)
   
   %w(array.each_with_index) { |element, index|
     p element
-  end
+  }
 end
